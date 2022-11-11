@@ -1,10 +1,9 @@
 #!/bin/bash
 
 moi="${USER}"
-moi2=$(whoami)
 
 bjr(){
-   echo "Bienvenue "$moi
+   echo "Bienvenue "${moi^}
 }
 
 affichCpt(){
