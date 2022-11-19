@@ -1,3 +1,6 @@
+#!/bin/bash
+# Script graphique de bienvenue
+# Nicolas
 nom="${USER}"
 
 if [[ $nom = "nicolas" ]]
